@@ -1,2 +1,2 @@
-# XCodeSourceEditorCommands
-Useful shortcut commands for XCode.
+# XcodeUsefulShortcutCommands
+Useful shortcut commands for Xcode.
